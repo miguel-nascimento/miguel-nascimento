@@ -2,10 +2,12 @@
 
 I'm a Math enthusiastic and CS fan. 🧪
 
-- ⚛️ Skills: Typescript, Rust, Python, C and C#.
-- 🔭 Working on: Game development.
-- 🌱 Currently learning: Blockchain, functional languages (like Nix, OCaml, Haskell) and improving my knowledgment in Machine Learning
-- 📫 Reach me: Miguel#4123 in [Discord](https://discord.com/new), ZerohPSB in [Anilist](https://anilist.co/).
+Currently working at FotonTech, a community with the top 3% developers from Brazil.
+
+- ⚛️ Skills: React, React Native, Next, GraphQL and Typescript.
+- 🔭 Working on: Web development & Blockchain.
+- 🌱 Currently learning: Functional languages like Nix, OCaml and Haskell
+- 📫 Reach me: Miguel#4123 in [Discord](https://discord.com/new)
 - 📚 Hobbies: Math, Programming and Pen Spinning.
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: Aimer is my favorite anime singer.
+- ⚡ Fun fact: Program received signal SIGSEGV, Segmentation fault.
