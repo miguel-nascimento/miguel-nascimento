@@ -1,6 +1,6 @@
 ### Hi there, I'm Miguel 👋
 
-A 18yo Math enthusiastic and CS fan. 🧪
+I'm a Math enthusiastic and CS fan. 🧪
 
 - ⚛️ Skills: Typescript, Rust, Python, C and C#.
 - 🔭 Working on: Game development.
