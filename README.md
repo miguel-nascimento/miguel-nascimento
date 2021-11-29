@@ -2,11 +2,10 @@
 
 I'm a Math enthusiastic and CS fan. 🧪
 
-Currently working at FotonTech, a community with the top 3% developers from Brazil.
 
-- ⚛️ Skills: React, React Native, Next, GraphQL and Typescript. Solidity and EOSIO in WAX blockchain.
+- ⚛️ Skills: React, React Native, Next, GraphQL and Typescript. Solidity and Solana Smart Contracts.
 - 🔭 Working on: Web development & Blockchain.
-- 🌱 Currently learning: Functional languages like Nix, OCaml and Haskell
+- 🌱 Currently learning: Functional languages like Haskell, OCaml and Nix.
 - 📫 Reach me: Miguel#4123 in [Discord](https://discord.com/new)
 - 📚 Hobbies: Math, Programming and Pen Spinning.
 - 😄 Pronouns: He/Him.
