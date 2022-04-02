@@ -1,4 +1,4 @@
-### Hi there, I'm Miguel 👋
+## Hi there, I'm Miguel 👋
 
 I'm a Math enthusiastic and CS fan. 🧪
 
