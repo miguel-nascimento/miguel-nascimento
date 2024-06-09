@@ -1,18 +1,14 @@
 ## Hi there, I'm Miguel 👋
 
-I'm a Math enthusiast and a CS fan. 🧪
+21yo. I do code. Searching for fun in some huge codebases.
 
-At my job, I'm a React Typescript developer who **loves** types.
+**At work:** mostly front-end, crafting products is a fun thing to do.
+## 🔧 My tools
+I was a Haskell guy for a while, so eventually I got the Monad Midas hand.
 
+Nowadays, I enjoy using those languages:
+- **typescript:** types pog
+- **rust:** takes an eternity to build but it has a nice tooling and it works well with functional patterns.
 
-> ⚛️ **Experience with**: Web Dev, Design System and Web3.
-
-> 🌱 **Currently learning**: PLT with FP langs such as Haskell, OCaml, and Rust. Type Theory is fun too.
-
-> 📫 **Reach me**: miguelnascimento in [Discord](https://discord.com/new)
-
-> 📚 **Hobbies**: Math, Programming and Pen Spinning.
-
-> 😄 **Pronouns**: He/Him.
-
-> ⚡ **Fun fact**: *** Exception: Prelude.head: empty list
+## ✉️ Contact me
+- **discord:** miguelnascimento
