@@ -1,6 +1,6 @@
 ## Hi there, I'm Miguel 👋
 
-22yo. I do code. Searching for fun in some huge codebases.
+23yo. I do code. Searching for fun in some huge codebases.
 
 **At work:** mostly front-end, crafting products is a fun thing to do.
 ## 🔧 My tools
